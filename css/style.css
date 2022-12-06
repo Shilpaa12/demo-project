@@ -1,0 +1,64 @@
+.card {
+
+    background-color: lightblue;
+}
+
+.paragraph {
+    color: rgb(255, 0, 64);
+}
+
+.paragraph2 {
+    color: rgb(96, 20, 158);
+    font-size: 40px;
+}
+
+
+.TABLE {
+    border: pX SOLID;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    height: 25px;
+    border: 1px solid black;
+    text-align: center
+}
+
+.h1form {
+    text-align: center;
+}
+
+.tableHeader {
+    text-align: center;
+}
+
+.totalTable {
+    border: 2px solid black;
+    border-collapse: collapse;
+    
+}
+
+.box-shadow {
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    background-color: rgb(46, 165, 26);
+    box-shadow: 20px 50px blueviolet;
+
+
+}
+
+.text-shadow {
+    text-shadow: 10px 20px blueviolet;
+
+
+}
+
+.ariqt {
+    text-decoration: none;
+}
+span{
+    color: aqua;
+}
